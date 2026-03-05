@@ -1,1 +1,2 @@
-skynet420robotics.github.io
+# 420 Robotics Donations
+This repository hosts the GitHub Pages site for 420 Robotics.
